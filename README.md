@@ -2,8 +2,8 @@
 
 <div align="center" dir="auto">
   <div>
-    <div>:ballot_box_with_check: Desenvolvedor Web Full Stack :electron: :octopus: :whale2: :flipper:</div>
-    <div>:ballot_box_with_check: Administrador de Redes :penguin: :window:</div>
+    <h4>:ballot_box_with_check: Desenvolvedor Web Full Stack :electron: :octopus: :whale2: :flipper:</h4>
+    <h4>:ballot_box_with_check: Administrador de Redes :penguin: :window:</h4>
   </div>
   <div>
     <a href="https://www.linkedin.com/in/gabriel-paiva-justo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
