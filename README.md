@@ -19,6 +19,7 @@
       <div>:family_man_woman_boy: Casado com a Bruna e pai do Ian</div>
       <div>:books: Estudante da Trybe</div>
       <div>:man_student: Formado em Redes de Comunicação</div>
+      <div>:rocket: Apaixonado por Tecnologia e Inovação</div>
       <div>:mobile_phone_off: Eu gosto de:
         <ul>
           <div>:coffee:Café? sim, sem açucar!</div>
@@ -35,7 +36,6 @@
     </ul>
   </div>
 </div>
-
 
 ##
 
