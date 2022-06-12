@@ -3,9 +3,13 @@
 <h3 align="center" dir="auto"> :man_technologist: Eu sou o Gabriel Paiva Justo, "bão ou não"? :+1: </h3>
 
 <div align="center" dir="auto">
-  :ballot_box_with_check: Desenvolvedor Web Full Stack :electron: :octopus: :whale2: :flipper:
-
-  :ballot_box_with_check: Administrador de Redes :penguin: :window:
+  <div>
+    <div>:ballot_box_with_check: Desenvolvedor Web Full Stack :electron: :octopus: :whale2: :flipper:</div>
+    <div>:ballot_box_with_check: Administrador de Redes :penguin: :window:</div>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/gabriel-paiva-justo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 </div>
 
 <div>
