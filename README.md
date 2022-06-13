@@ -26,7 +26,7 @@
           <div>:coffee:Café? sim, sem açucar!</div>
           <div>:headphones: Música sempre ligada</div>
           <div>:basketball_man::soccer: Ver e praticar esportes</div>
-          <div>:beers: Estar com Amigos </div>
+          <div>:beers: Estar com a Família e Amigos </div>
           <div>:clapper: Ver filmes e Séries </div>
           <div>:books: Ler </div>
           <div>:black_joker: Jogar Poker </div>
