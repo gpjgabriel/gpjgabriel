@@ -21,7 +21,7 @@
       <div>:man_student: Formado em Redes de Comunicação</div>
       <div>:rocket: Apaixonado por Tecnologia e Inovação</div>
       <details>
-        <summary><strong>:mobile_phone_off: Eu gosto de:</strong></summary>
+        <summary><strong>:heart: Eu gosto de:</strong></summary>
          <ul>
           <div>:coffee:Café? sim, sem açucar!</div>
           <div>:headphones: Música sempre ligada</div>
