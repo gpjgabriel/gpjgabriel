@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <img align="right" data-target="animated-image.replacedImage" style="height: 250px;" alt="gif of some random code snippet being scrolled" class="AnimatedImagePlayer-animatedImage" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx0bWpyZ25meXptYjFrMHV4OWNrNWN3dTc1ZXp5d3Ryemo0dTV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+  <img align="right" data-target="animated-image.replacedImage" style="height: 200px;" alt="gif of some random code snippet being scrolled" class="AnimatedImagePlayer-animatedImage" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx0bWpyZ25meXptYjFrMHV4OWNrNWN3dTc1ZXp5d3Ryemo0dTV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
   <div align="left">
     <h3>:open_book: Sobre mim</h3>
     <ul>
@@ -65,6 +65,7 @@
 <div align="center" dir="auto">
   
   ![snake gif](https://github.com/gpjgabriel/gpjgabriel/blob/output/github-contribution-grid-snake.gif)
+  <img src="https://github.com/SEU_USUARIO/github-readme-snake/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake gif" />
 
 </div>
 
