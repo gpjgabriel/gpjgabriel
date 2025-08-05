@@ -11,13 +11,13 @@
 </div>
 
 <div>
-  <img align="right" data-target="animated-image.replacedImage" alt="gif of some random code snippet being scrolled" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/d3e809f523f13c60007f918a892a63e69ba4feeca642c0140c8847ed832b3b34/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966">
+  <img align="right" data-target="animated-image.replacedImage" alt="gif of some random code snippet being scrolled" class="AnimatedImagePlayer-animatedImage" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx0bWpyZ25meXptYjFrMHV4OWNrNWN3dTc1ZXp5d3Ryemo0dTV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
   <div align="left">
     <h3>:open_book: Sobre mim</h3>
     <ul>
       <div>:house: Moro em Goiânia/GO</div>
-      <div>:family_man_woman_boy: Casado com a Bruna e pai do Ian</div>
-      <div>:books: Estudante da Trybe</div>
+      <div>:family_man_woman_boy: Casado com a Bruna e pai do Ian e da Ayla</div>
+      <div>:books: Desenvolvedor Web Fullstack pela Trybe</div>
       <div>:man_student: Formado em Redes de Comunicação</div>
       <div>:rocket: Apaixonado por Tecnologia e Inovação</div>
       <details>
